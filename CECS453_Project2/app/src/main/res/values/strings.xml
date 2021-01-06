@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Photo Album</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="previousBtn"> \u003C\u003C </string>
+    <string name="nextBtn"> >> </string>
+    <string name="galleryView">Gallery View</string>
+    <string name="slideShow">Slide Show</string>
+
+    <string name="tiger">Tiger</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
