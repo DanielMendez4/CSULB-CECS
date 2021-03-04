@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Project1.cpp
+  numberH.cpp
+c:\users\daniel\source\repos\project1\project1\numberh.cpp(73): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\source\repos\project1\project1\numberh.cpp(74): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Daniel\source\repos\Project1\Debug\Project1.exe
