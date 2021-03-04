@@ -1,0 +1,5 @@
+﻿  Project4_BattleshipA.cpp
+c:\users\daniel\source\repos\project4_battleshipa\project4_battleshipa\project4_battleshipa.cpp(44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\daniel\source\repos\project4_battleshipa\project4_battleshipa\project4_battleshipa.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\source\repos\project4_battleshipa\project4_battleshipa\project4_battleshipa.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  Project4_BattleshipA.vcxproj -> C:\Users\Daniel\source\repos\Project4_BattleshipA\Debug\Project4_BattleshipA.exe
