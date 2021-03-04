@@ -1,2 +1,2 @@
-# 277Final
-Final project for cecs 277 
+# CECS 277
+Contains projects from CECS 277 
