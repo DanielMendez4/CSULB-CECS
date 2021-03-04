@@ -1,0 +1,7 @@
+﻿  Project2_Calculator.cpp
+c:\users\daniel\source\repos\project2_calculator\project2_calculator\project2_calculator.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\source\repos\project2_calculator\project2_calculator\project2_calculator.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\source\repos\project2_calculator\project2_calculator\project2_calculator.cpp(298): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\source\repos\project2_calculator\project2_calculator\project2_calculator.cpp(408): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\source\repos\project2_calculator\project2_calculator\project2_calculator.cpp(448): warning C4018: '<': signed/unsigned mismatch
+  Project2_Calculator.vcxproj -> C:\Users\Daniel\source\repos\Project2_Calculator\Debug\Project2_Calculator.exe

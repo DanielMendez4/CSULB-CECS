@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  Project2_CalculatorRemake.cpp
+C:\Users\Daniel\source\repos\Project2_CalculatorRemake\Project2_CalculatorRemake\Project2_CalculatorRemake.cpp(27,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Daniel\source\repos\Project2_CalculatorRemake\Project2_CalculatorRemake\Project2_CalculatorRemake.cpp(43,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Daniel\source\repos\Project2_CalculatorRemake\Project2_CalculatorRemake\Project2_CalculatorRemake.cpp(55,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Daniel\source\repos\Project2_CalculatorRemake\Project2_CalculatorRemake\Project2_CalculatorRemake.cpp(67,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Daniel\source\repos\Project2_CalculatorRemake\Project2_CalculatorRemake\Project2_CalculatorRemake.cpp(79,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Daniel\source\repos\Project2_CalculatorRemake\Project2_CalculatorRemake\Project2_CalculatorRemake.cpp(228,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Daniel\source\repos\Project2_CalculatorRemake\Project2_CalculatorRemake\Project2_CalculatorRemake.cpp(246,20): warning C4018:  '<': signed/unsigned mismatch
+  Project2_CalculatorRemake.vcxproj -> C:\Users\Daniel\source\repos\Project2_CalculatorRemake\Debug\Project2_CalculatorRemake.exe
