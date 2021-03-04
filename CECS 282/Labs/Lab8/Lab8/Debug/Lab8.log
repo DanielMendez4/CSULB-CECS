@@ -1,0 +1,4 @@
+﻿  rationalH.cpp
+c:\users\daniel\source\repos\lab8\lab8\rationalh.cpp(74): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\daniel\source\repos\lab8\lab8\rationalh.cpp(75): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Lab8.vcxproj -> C:\Users\Daniel\source\repos\Lab8\Debug\Lab8.exe
